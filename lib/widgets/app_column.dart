@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
-import 'package:foo_delivery/widgets/icon_and_text_widget.dart';
-import 'package:foo_delivery/widgets/small.text.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
+import 'package:del_colmado_rd/widgets/icon_and_text_widget.dart';
+import 'package:del_colmado_rd/widgets/small.text.dart';
 
 class AppColumn extends StatelessWidget {
   final String text;

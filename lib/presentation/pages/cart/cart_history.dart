@@ -1,16 +1,16 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/base/no_data_pages.dart';
-import 'package:foo_delivery/controllers/cart_controller.dart';
-import 'package:foo_delivery/model/cart_model.dart';
-import 'package:foo_delivery/routes/router_helper.dart';
-import 'package:foo_delivery/utils/app_constants.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/app_icon.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
-import 'package:foo_delivery/widgets/small.text.dart';
+import 'package:del_colmado_rd/base/no_data_pages.dart';
+import 'package:del_colmado_rd/controllers/cart_controller.dart';
+import 'package:del_colmado_rd/model/cart_model.dart';
+import 'package:del_colmado_rd/routes/router_helper.dart';
+import 'package:del_colmado_rd/utils/app_constants.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/app_icon.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
+import 'package:del_colmado_rd/widgets/small.text.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 

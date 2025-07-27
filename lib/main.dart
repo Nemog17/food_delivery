@@ -1,18 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/controllers/cart_controller.dart';
-import 'package:foo_delivery/controllers/popular_product_controller.dart';
-import 'package:foo_delivery/controllers/recommended_product_controller.dart';
-import 'package:foo_delivery/pages/auth/sign_in_page.dart';
-import 'package:foo_delivery/pages/auth/sign_up_page.dart';
-import 'package:foo_delivery/pages/home/home_page.dart';
-import 'package:foo_delivery/routes/router_helper.dart';
+import 'package:del_colmado_rd/controllers/cart_controller.dart';
+import 'package:del_colmado_rd/controllers/popular_product_controller.dart';
+import 'package:del_colmado_rd/controllers/recommended_product_controller.dart';
+import 'package:del_colmado_rd/presentation/auth/sign_in_page.dart';
+import 'package:del_colmado_rd/presentation/auth/sign_up_page.dart';
+import 'package:del_colmado_rd/presentation/home/home_page.dart';
+import 'package:del_colmado_rd/routes/router_helper.dart';
+import 'package:del_colmado_rd/core/constants.dart';
 import 'package:get/get.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'helper/dependeccies.dart' as dep;
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await dep.init();
-  runApp(const MyApp());
+  runApp(const ProviderScope(child: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -25,7 +27,7 @@ class MyApp extends StatelessWidget {
       return GetBuilder<RecommendedProductController>(builder: (_) {
         return GetMaterialApp(
           debugShowCheckedModeBanner: false,
-          title: "Flutter Demo",
+          title: AppConstants.appName,
           home: HomePage(),
           // initialRoute: RouteHelper.getInitial(),
           // home: SplashScreen(),

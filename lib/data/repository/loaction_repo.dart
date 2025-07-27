@@ -1,6 +1,6 @@
-import 'package:foo_delivery/data/api/api_client.dart';
-import 'package:foo_delivery/model/adress_model.dart';
-import 'package:foo_delivery/utils/app_constants.dart';
+import 'package:del_colmado_rd/data/api/api_client.dart';
+import 'package:del_colmado_rd/model/adress_model.dart';
+import 'package:del_colmado_rd/utils/app_constants.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:get/get.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/controllers/auth_controller.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
+import 'package:del_colmado_rd/controllers/auth_controller.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
 import 'package:get/instance_manager.dart';
 
 class CustomLoader extends StatelessWidget {

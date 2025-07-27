@@ -1,5 +1,5 @@
-import 'package:foo_delivery/data/api/api_client.dart';
-import 'package:foo_delivery/utils/app_constants.dart';
+import 'package:del_colmado_rd/data/api/api_client.dart';
+import 'package:del_colmado_rd/utils/app_constants.dart';
 import 'package:get/get.dart';
 
 class UserRepo {

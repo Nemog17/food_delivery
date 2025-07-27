@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/controllers/cart_controller.dart';
-import 'package:foo_delivery/data/repository/popular_product_repo.dart';
-import 'package:foo_delivery/model/cart_model.dart';
-import 'package:foo_delivery/model/product_model.dart';
-import 'package:foo_delivery/utils/colors.dart';
+import 'package:del_colmado_rd/controllers/cart_controller.dart';
+import 'package:del_colmado_rd/data/repository/popular_product_repo.dart';
+import 'package:del_colmado_rd/model/cart_model.dart';
+import 'package:del_colmado_rd/model/product_model.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
 import 'package:get/get.dart';
 
 class PopularProductController extends GetxController {

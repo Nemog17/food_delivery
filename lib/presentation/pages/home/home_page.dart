@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/pages/account/account_page.dart';
-import 'package:foo_delivery/pages/auth/sign_in_page.dart';
-import 'package:foo_delivery/pages/auth/sign_up_page.dart';
-import 'package:foo_delivery/pages/cart/cart_history.dart';
-import 'package:foo_delivery/pages/home/main_food_page.dart';
-import 'package:foo_delivery/utils/colors.dart';
+import 'package:del_colmado_rd/presentation/account/account_page.dart';
+import 'package:del_colmado_rd/presentation/auth/sign_in_page.dart';
+import 'package:del_colmado_rd/presentation/auth/sign_up_page.dart';
+import 'package:del_colmado_rd/presentation/cart/cart_history.dart';
+import 'package:del_colmado_rd/presentation/home/main_food_page.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

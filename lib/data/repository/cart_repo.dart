@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:foo_delivery/model/cart_model.dart';
-import 'package:foo_delivery/utils/app_constants.dart';
+import 'package:del_colmado_rd/model/cart_model.dart';
+import 'package:del_colmado_rd/utils/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class CartRepo {

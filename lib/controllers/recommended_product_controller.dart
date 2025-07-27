@@ -1,5 +1,5 @@
-import 'package:foo_delivery/data/repository/recomended_product_repo.dart';
-import 'package:foo_delivery/model/product_model.dart';
+import 'package:del_colmado_rd/data/repository/recomended_product_repo.dart';
+import 'package:del_colmado_rd/model/product_model.dart';
 import 'package:get/get.dart';
 
 class RecommendedProductController extends GetxController {

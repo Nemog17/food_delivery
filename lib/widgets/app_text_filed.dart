@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
 
 class AppTextFiled extends StatelessWidget {
   final TextEditingController textEditingController;

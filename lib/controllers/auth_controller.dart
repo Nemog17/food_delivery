@@ -1,6 +1,6 @@
-import 'package:foo_delivery/data/repository/auth_repo.dart';
-import 'package:foo_delivery/model/reponse_model.dart';
-import 'package:foo_delivery/model/signup_body_model.dart';
+import 'package:del_colmado_rd/data/repository/auth_repo.dart';
+import 'package:del_colmado_rd/model/reponse_model.dart';
+import 'package:del_colmado_rd/model/signup_body_model.dart';
 import 'package:get/get.dart';
 
 class AuthController extends GetxController implements GetxService {
