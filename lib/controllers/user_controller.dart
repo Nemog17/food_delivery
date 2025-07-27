@@ -1,6 +1,6 @@
-import 'package:foo_delivery/data/repository/user_repo.dart';
-import 'package:foo_delivery/model/reponse_model.dart';
-import 'package:foo_delivery/model/user_model.dart';
+import 'package:del_colmado_rd/data/repository/user_repo.dart';
+import 'package:del_colmado_rd/model/reponse_model.dart';
+import 'package:del_colmado_rd/model/user_model.dart';
 import 'package:get/get.dart';
 
 class UserController extends GetxController implements GetxService {

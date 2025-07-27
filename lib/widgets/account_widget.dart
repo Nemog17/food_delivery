@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/app_icon.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/app_icon.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
 
 class AccountWidget extends StatelessWidget {
   AppIcon appIcon;

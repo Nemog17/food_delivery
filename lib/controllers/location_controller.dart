@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:foo_delivery/data/repository/loaction_repo.dart';
-import 'package:foo_delivery/model/adress_model.dart';
-import 'package:foo_delivery/model/reponse_model.dart';
+import 'package:del_colmado_rd/data/repository/loaction_repo.dart';
+import 'package:del_colmado_rd/model/adress_model.dart';
+import 'package:del_colmado_rd/model/reponse_model.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get_connect.dart';

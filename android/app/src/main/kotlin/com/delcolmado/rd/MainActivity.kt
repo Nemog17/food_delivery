@@ -1,4 +1,4 @@
-package com.example.foo_delivery
+package com.delcolmado.rd
 
 import io.flutter.embedding.android.FlutterActivity
 

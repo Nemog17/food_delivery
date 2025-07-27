@@ -1,4 +1,4 @@
-import 'package:foo_delivery/model/product_model.dart';
+import 'package:del_colmado_rd/model/product_model.dart';
 
 class CartModel {
   int? id;

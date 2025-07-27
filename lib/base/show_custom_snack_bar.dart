@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
 import 'package:get/get.dart';
 
 void showCustomSnackBar(String message, {bool isError = true, String title = "Error"}) {

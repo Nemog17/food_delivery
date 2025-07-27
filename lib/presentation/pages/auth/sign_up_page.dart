@@ -1,14 +1,14 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/base/custom_loader.dart';
-import 'package:foo_delivery/base/show_custom_snack_bar.dart';
-import 'package:foo_delivery/model/signup_body_model.dart';
-import 'package:foo_delivery/controllers/auth_controller.dart';
-import 'package:foo_delivery/routes/router_helper.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/app_text_filed.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
+import 'package:del_colmado_rd/base/custom_loader.dart';
+import 'package:del_colmado_rd/base/show_custom_snack_bar.dart';
+import 'package:del_colmado_rd/model/signup_body_model.dart';
+import 'package:del_colmado_rd/controllers/auth_controller.dart';
+import 'package:del_colmado_rd/routes/router_helper.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/app_text_filed.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
 import 'package:get/get.dart';
 
 class SigUpPage extends StatelessWidget {

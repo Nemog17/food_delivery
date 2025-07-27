@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/data/repository/cart_repo.dart';
-import 'package:foo_delivery/model/cart_model.dart';
-import 'package:foo_delivery/model/product_model.dart';
-import 'package:foo_delivery/utils/colors.dart';
+import 'package:del_colmado_rd/data/repository/cart_repo.dart';
+import 'package:del_colmado_rd/model/cart_model.dart';
+import 'package:del_colmado_rd/model/product_model.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
 import 'package:get/get.dart';
 
 class CartController extends GetxController {

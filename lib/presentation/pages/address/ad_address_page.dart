@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/controllers/auth_controller.dart';
-import 'package:foo_delivery/controllers/location_controller.dart';
-import 'package:foo_delivery/controllers/user_controller.dart';
-import 'package:foo_delivery/model/adress_model.dart';
-import 'package:foo_delivery/routes/router_helper.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/app_icon.dart';
-import 'package:foo_delivery/widgets/app_text_filed.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
+import 'package:del_colmado_rd/controllers/auth_controller.dart';
+import 'package:del_colmado_rd/controllers/location_controller.dart';
+import 'package:del_colmado_rd/controllers/user_controller.dart';
+import 'package:del_colmado_rd/model/adress_model.dart';
+import 'package:del_colmado_rd/routes/router_helper.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/app_icon.dart';
+import 'package:del_colmado_rd/widgets/app_text_filed.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:get/get.dart';
 

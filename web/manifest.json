@@ -1,6 +1,6 @@
 {
-    "name": "foo_delivery",
-    "short_name": "foo_delivery",
+    "name": "del_colmado_rd",
+    "short_name": "del_colmado_rd",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

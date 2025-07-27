@@ -1,5 +1,5 @@
 import 'package:flutter/rendering.dart';
-import 'package:foo_delivery/utils/app_constants.dart';
+import 'package:del_colmado_rd/utils/app_constants.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

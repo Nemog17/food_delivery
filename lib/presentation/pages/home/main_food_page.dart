@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foo_delivery/pages/home/food_page_body.dart';
-import 'package:foo_delivery/utils/colors.dart';
-import 'package:foo_delivery/utils/dimensions.dart';
-import 'package:foo_delivery/widgets/big_text.dart';
-import 'package:foo_delivery/widgets/small.text.dart';
+import 'package:del_colmado_rd/presentation/home/food_page_body.dart';
+import 'package:del_colmado_rd/utils/colors.dart';
+import 'package:del_colmado_rd/utils/dimensions.dart';
+import 'package:del_colmado_rd/widgets/big_text.dart';
+import 'package:del_colmado_rd/widgets/small.text.dart';
 
 class MainFoodPage extends StatefulWidget {
   const MainFoodPage({Key? key}) : super(key: key);
