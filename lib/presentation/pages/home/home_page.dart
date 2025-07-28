@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:del_colmado_rd/presentation/account/account_page.dart';
-import 'package:del_colmado_rd/presentation/auth/sign_in_page.dart';
-import 'package:del_colmado_rd/presentation/auth/sign_up_page.dart';
-import 'package:del_colmado_rd/presentation/cart/cart_history.dart';
-import 'package:del_colmado_rd/presentation/home/main_food_page.dart';
+import 'package:del_colmado_rd/presentation/pages/account/account_page.dart';
+import 'package:del_colmado_rd/presentation/pages/auth/sign_in_page.dart';
+import 'package:del_colmado_rd/presentation/pages/auth/sign_up_page.dart';
+import 'package:del_colmado_rd/presentation/pages/cart/cart_history.dart';
+import 'package:del_colmado_rd/presentation/pages/home/main_food_page.dart';
 import 'package:del_colmado_rd/utils/colors.dart';
 
 class HomePage extends StatefulWidget {

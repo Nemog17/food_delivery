@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:del_colmado_rd/presentation/home/food_page_body.dart';
+import 'package:del_colmado_rd/presentation/pages/home/food_page_body.dart';
 import 'package:del_colmado_rd/utils/colors.dart';
 import 'package:del_colmado_rd/utils/dimensions.dart';
 import 'package:del_colmado_rd/widgets/big_text.dart';
