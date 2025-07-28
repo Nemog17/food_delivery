@@ -1,11 +1,11 @@
-import 'package:del_colmado_rd/presentation/address/ad_address_page.dart';
-import 'package:del_colmado_rd/presentation/auth/sign_in_page.dart';
-import 'package:del_colmado_rd/presentation/cart/cart_page.dart';
-import 'package:del_colmado_rd/presentation/food/popiular_food_detail.dart';
-import 'package:del_colmado_rd/presentation/food/recomended_fodd_detail.dart';
-import 'package:del_colmado_rd/presentation/home/home_page.dart';
+import 'package:del_colmado_rd/presentation/pages/address/ad_address_page.dart';
+import 'package:del_colmado_rd/presentation/pages/auth/sign_in_page.dart';
+import 'package:del_colmado_rd/presentation/pages/cart/cart_page.dart';
+import 'package:del_colmado_rd/presentation/pages/food/popiular_food_detail.dart';
+import 'package:del_colmado_rd/presentation/pages/food/recomended_fodd_detail.dart';
+import 'package:del_colmado_rd/presentation/pages/home/home_page.dart';
 
-import 'package:del_colmado_rd/presentation/splash/splash_page.dart';
+import 'package:del_colmado_rd/presentation/pages/splash/splash_page.dart';
 import 'package:get/get.dart';
 
 class RouteHelper {

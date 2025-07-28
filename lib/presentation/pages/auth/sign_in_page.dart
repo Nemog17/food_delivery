@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:del_colmado_rd/base/custom_loader.dart';
 import 'package:del_colmado_rd/base/show_custom_snack_bar.dart';
 import 'package:del_colmado_rd/controllers/auth_controller.dart';
-import 'package:del_colmado_rd/presentation/auth/sign_up_page.dart';
+import 'package:del_colmado_rd/presentation/pages/auth/sign_up_page.dart';
 import 'package:del_colmado_rd/routes/router_helper.dart';
 import 'package:del_colmado_rd/utils/colors.dart';
 import 'package:del_colmado_rd/utils/dimensions.dart';
